@@ -28,7 +28,8 @@
 
 ### Dataset Preparation
 - The chunked text data is converted into a Hugging Face Dataset to streamline tokenization and batching, enabling efficient data handling during training.
-- Tokenization with Padding
+
+### Tokenization with Padding
 - Setting tokenizer.pad_token = tokenizer.eos_token is crucial for models without an explicit padding token, avoiding padding-related errors during batch processing.
 
 ### Model Loading & Quantization
