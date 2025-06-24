@@ -62,3 +62,5 @@
 
 ## Model Output
 - Using LoRA in this project demonstrated an excellent approach to fine-tuning a model without updating all its parameters. It highlights how adaptable LoRA is within the world of large language models—offering both cost efficiency and memory efficiency—while still delivering outstanding results
+
+![ModelOutput](Images/99.png)
